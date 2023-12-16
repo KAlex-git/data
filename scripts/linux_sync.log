@@ -14402,3 +14402,11 @@ fatal: Need to specify how to reconcile divergent branches.
 16.12.2023 10:14:34 === Command "cd /home/kalex/.config/ru.webhamster.mytetra/data"
 16.12.2023 10:14:34 === Command "git diff"
 16.12.2023 10:14:34 === Command "git add ."
+
+16.12.2023 11:56:47 === ===============================================
+16.12.2023 11:56:47 === Changes from Linux
+16.12.2023 11:56:47 === Command "cd /home/kalex/.config/ru.webhamster.mytetra/data"
+16.12.2023 11:56:47 === Command "git diff"
+M	scripts/linux_sync.log
+16.12.2023 11:56:47 === Command "git add ."
+16.12.2023 11:56:47 === Command "git commit"
