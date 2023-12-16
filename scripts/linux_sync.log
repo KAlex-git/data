@@ -14410,3 +14410,18 @@ fatal: Need to specify how to reconcile divergent branches.
 M	scripts/linux_sync.log
 16.12.2023 11:56:47 === Command "git add ."
 16.12.2023 11:56:47 === Command "git commit"
+[KAlex-git e6aec06] Changes from Linux - 16.12.2023 11:56:47
+ 1 file changed, 8 insertions(+)
+16.12.2023 11:56:47 === Command "git pull"
+Already up to date.
+16.12.2023 11:56:49 === Command "git push"
+To github.com:KAlex-git/data.git
+   1dc9f3e..e6aec06  KAlex-git -> KAlex-git
+
+16.12.2023 12:12:59 === ===============================================
+16.12.2023 12:12:59 === Changes from Linux
+16.12.2023 12:12:59 === Command "cd /home/kalex/.config/ru.webhamster.mytetra/data"
+16.12.2023 12:12:59 === Command "git diff"
+M	scripts/linux_sync.log
+16.12.2023 12:12:59 === Command "git add ."
+16.12.2023 12:12:59 === Command "git commit"
